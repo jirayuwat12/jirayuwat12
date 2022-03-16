@@ -5,6 +5,7 @@
   I am Jirayuwat Boonchan.
   Now I am studying at <strong>Chula University (Computer Engineering)</strong>
 </pre>
+<a href="https://www.facebook.com/people/Jirayuwat-Boonchan/100007474157942/">My facebook</a>
 <!--
 **jirayuwat12/jirayuwat12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
