@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<hr>
+<pre>
+  I am Jirayuwat Boonchan.
+  Now i am studying at <strong>Chula University (Computer Engineering)</strong>
+</pre>
 <!--
 **jirayuwat12/jirayuwat12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
