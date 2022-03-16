@@ -3,7 +3,7 @@
 <hr>
 <pre>
   I am Jirayuwat Boonchan.
-  Now I am studying at <strong>Chula University (Computer Engineering)</strong>
+  Now I am studying at <strong>Chula University ( Computer Engineering )</strong>
 </pre>
 <a href="https://www.facebook.com/people/Jirayuwat-Boonchan/100007474157942/"><img width ="20" heigth = "20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/800px-2021_Facebook_icon.svg.png"></img> My facebook</a>
 <br>
