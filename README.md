@@ -5,10 +5,9 @@
   I am Jirayuwat Boonchan.
   Now I am studying at <strong>Chula University (Computer Engineering)</strong>
 </pre>
-<img width ="20" heigth = "20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"></img>
 <a href="https://www.facebook.com/people/Jirayuwat-Boonchan/100007474157942/">My facebook</a>
 <br>
-<a href="https://www.youtube.com/channel/UCsoo8P6YvCsM7nXC30I8CYQ">My youtube channel</a>
+<a href="https://www.youtube.com/channel/UCsoo8P6YvCsM7nXC30I8CYQ"><img width ="20" heigth = "20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"></img>My youtube channel</a>
 <!--
 **jirayuwat12/jirayuwat12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
