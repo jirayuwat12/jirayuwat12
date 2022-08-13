@@ -1,5 +1,4 @@
 ## Hi there 👋
-___
 <br>
 
 >I am Jirayuwat Boonchan. ( call me *peter* )
