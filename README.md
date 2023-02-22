@@ -1,7 +1,7 @@
 ## Hi there 👋
 <br>
 
->I am Jirayuwat Boonchan. ( call me *peter* )
+>I am Jirayuwat Boonchan. ( call me *PP* )
 >
 >Now I am studying at **Chulalongkorn University ( Computer Engineering )**
 
@@ -14,6 +14,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <br>
+<!-- show github stats -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirayuwat12)
 
 ### my Contact 
 
