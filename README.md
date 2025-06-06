@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Jirayuwat. You can call me peter.<br>Currently, I studying Computer Engineering at CU.<br>I am interested in Data, ML and AI now.<br>
+
+Hello, I'm Jirayuwat, or call me PP. I graduated from Chulalongkorn University with a degree in Computer Engineering and have since pursued my interest in data and AI professionally. I currently work in the financial sector, focusing on Bancassurance, and Loan at a Bank in Thailand.
 
 
 ## 🌐 Socials:
@@ -12,15 +13,15 @@ I'm Jirayuwat. You can call me peter.<br>Currently, I studying Computer Engineer
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-00000F?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pytorch](https://img.shields.io/badge/Pytorch-%23EE4C2C.svg?style=for-the-badge&logo=Pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![PySpark](https://img.shields.io/badge/PySpark-F7B500?style=for-the-badge&logo=apachespark&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 <!-- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  -->
 <!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  -->
 
